@@ -5,4 +5,4 @@ Here we will release the codes for the submission ([Cross-domain transfer learni
 ## Diagram of the study
 The model was trained with ground images and it was able to predict UAV imagery for weed mapping.
 
-![Model/diagram.jpg](Model/diagram.jpg)
+![Models/diagram.jpg](Models/diagram.jpg)
