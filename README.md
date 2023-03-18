@@ -11,4 +11,4 @@ The model was trained with ground images and it was able to predict UAV imagery 
 
 
 ## Weed heatmap from the UAV imagery
-![Models/save_prescription_map.jpg](Models/save_prescription_map.jpg)
+![Models/save_prescription_map.jpg](Models/save_prescription_map.jpg=512x512)
