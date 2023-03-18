@@ -6,3 +6,9 @@ Here we will release the codes for the submission ([Cross-domain transfer learni
 The model was trained with ground images and it was able to predict UAV imagery for weed mapping.
 
 ![Models/diagram.jpg](Models/diagram.jpg)
+
+## Ground image prediction 
+
+
+## Weed heatmap from the UAV imagery
+![Models/save_prescription_map.jpg](Models/save_prescription_map.jpg)
